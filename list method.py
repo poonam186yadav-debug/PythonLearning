@@ -1,0 +1,15 @@
+marks=[2,3,6,7,11,34,26,28,19,57]
+# print(marks)
+# marks.append(40)
+# print(marks)
+# marks.remove(6)
+# print(marks)
+# marks.sort()
+# print(marks)
+# marks.pop()
+# print(marks)
+# marks.reverse()
+# print(marks)
+extramarks=[10,20,30]
+marks.extend(extramarks)
+print(marks)

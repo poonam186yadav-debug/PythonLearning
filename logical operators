@@ -1,0 +1,37 @@
+a=True
+b=True 
+c=a and b 
+print(c)
+
+a=True
+b=False
+c=a and b 
+print(c)
+
+a=False
+b=True
+c=a and b
+print(c)
+
+a=False
+b=False
+c=a and b 
+print (c)
+
+a=True
+b=False
+c=a or b 
+print (c)
+
+a=True
+b=True
+c=a or b 
+print(c)
+
+d=True
+e=not(d)
+print(e)
+
+f=False
+g=not(f)
+print(g)
